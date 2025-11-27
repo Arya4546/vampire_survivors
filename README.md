@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://github.com/Arya4546/vampire_survivors/raw/main/preview/banner.png" width="100%" alt="Vampire Survivors Web3 Banner"/>
+  <img src="https://github.com/Arya4546/vampire_survivors/raw/main/banner.png" 
+       width="100%" alt="Vampire Survivors Web3 Banner"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-6000.0.46f1-black?logo=unity&style=for-the-badge" />
