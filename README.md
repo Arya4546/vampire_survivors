@@ -24,7 +24,7 @@
 
 ## 🚀 About the Project
 
-This is a **Web3-enhanced Vampire Survivors clone** made in **Unity 6**, loaded with:
+This is a **Web3-enhanced Vampire Survivors ** made in **Unity 6**, loaded with:
 
 - ⚔️ Smooth top-down survival gameplay  
 - 🧟 Enemy wave system  
@@ -34,70 +34,71 @@ This is a **Web3-enhanced Vampire Survivors clone** made in **Unity 6**, loaded 
 - 👾 WebGL Ready + Optimized  
 
 
-🩸 Key Features
-⚔️ Classic Survivor Gameplay, Reborn
+## 🩸 Key Features
 
-Auto-attacks, enemy swarms, power-ups, leveling —
-that classic “1 vs 1,000” chaos but buttery smooth in Unity 6.
+### ⚔️ Classic Survivor Gameplay — Reborn
+Auto-attacks, enemy swarms, power-ups, leveling —  
+that classic “1 vs 1,000” chaos brought to life with Unity 6.
 
-📡 Somnia Data Stream Integration
+- Fast-paced survival combat  
+- Randomized power-ups  
+- Scaling difficulty  
+- High replay value  
 
-Your score, wallet, and session data are streamed live to SDS —
-creating a tamper-proof, anti-cheat performance history for every run.
-
-Zero manual submissions.
-Zero centralized servers.
-Your gameplay → directly to the blockchain.
-
-🏆 Real-Time On-Chain Leaderboard
-
-Compete for the throne as your best run gets:
-
-Verified on-chain
-
-Ranked publicly
-
-Displayed live for all players
-
-The top hunters rise naturally —
-backed by transparent blockchain data.
-
-💰 ERC-20 Reward Claim System
-
-Your score = your payout.
-Claim rewards straight into your wallet using the integrated one-tap claim flow:
-
-Fully automated
-
-Gasless-compatible
-
-Exploit-proof
-
-Skill = income.
-Flex your grind and earn instantly.
-
-🧬 WebGL-Optimized + Wallet-Ready
-
-Works directly in the browser with:
-
-Player wallet auto-detection
-
-Somnia ecosystem support
-
-Full-screen WebGL gameplay
-
-Seamless gaming meets seamless on-chain ownership.
-
-🧛 Play. Survive. Dominate the Chain.
-
-Every second you survive, every enemy you defeat, every upgrade you choose —
-gets written into the Somnia Data Stream as your immutable path to glory.
-
-Run after run… your story grows stronger.
-The leaderboard doesn’t lie.
-The chain remembers.
-
-Welcome to the Vampire Survivors — Web3 Edition.
-Where survival isn’t just a game — it’s your on-chain legacy. 🩸🔥
 ---
 
+### 📡 Somnia Data Stream Integration
+Your gameplay is streamed directly on-chain through Somnia Data Stream (SDS), creating real-time, anti-cheat verified performance data.
+
+- Score, wallet, playtime uploaded instantly  
+- Fully tamper-proof  
+- No manual submissions  
+- No centralized servers  
+- Gameplay → SDS → Blockchain  
+
+---
+
+### 🏆 Real-Time On-Chain Leaderboard
+Compete globally with an always-live, always-updating leaderboard.
+
+Each run gets:
+- Verified on-chain  
+- Ranked automatically  
+- Displayed publicly
+
+Fair, transparent, uncheatable competition.
+
+---
+
+### 💰 ERC-20 Reward Claim System
+Your score = your reward.
+
+Claim ERC-20 tokens directly from inside the game:
+- One-tap claim flow  
+- Automated transaction  
+- Gasless-compatible  
+- Exploit-resistant  
+
+Skill → Tokens.  
+Instant. Clean. Fair.
+
+---
+
+### 🧬 WebGL-Optimized + Wallet-Ready
+Play instantly in your browser.
+
+- Auto wallet detection  
+- Full Somnia ecosystem support  
+- Smooth WebGL gameplay  
+- No installation required  
+
+---
+
+## 🧛 Play. Survive. Dominate the Chain.
+Every kill, every upgrade, every second survived  
+is permanently written into the Somnia Data Stream  
+as your **immutable on-chain legacy**.
+
+The leaderboard doesn’t lie.  
+The chain remembers.  
+Welcome to **Vampire Survivors — Web3 Edition**. 🩸🔥
